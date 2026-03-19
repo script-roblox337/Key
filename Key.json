@@ -1,6 +1,6 @@
 {
   "keys": [
-    { "key": "VIP123", "expire": 18934560000000 },
-    { "key": "PRO999", "expire": 18934560000000 }
+    { "key": "VIP123", "duration": 360000 },
+    { "key": "PRO999", "duration": 86400 }
   ]
 }
