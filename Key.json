@@ -1,6 +1,7 @@
 {
   "keys": [
-    { "key": "VIP123", "duration": 360000 },
-    { "key": "PRO999", "duration": 86400 }
+    { "key": "VIP123", "duration": 60 },        // 60 giây
+    { "key": "PRO999", "duration": 86400 },    // 1 ngày
+    { "key": "ELITE777", "duration": 43200 }   // 12 giờ
   ]
 }
