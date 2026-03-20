@@ -1,7 +1,19 @@
 {
   "keys": [
-    { "key": "VIP123", "duration": 60 },        // 60 giây
-    { "key": "PRO999", "duration": 86400 },    // 1 ngày
-    { "key": "ELITE777", "duration": 43200 }   // 12 giờ
+    {
+      "key": "VIP123",
+      "duration": 60,               // thời gian hiệu lực tính bằng giây
+      "serverTime": 1699958400000   // timestamp lúc server tạo key (ms)
+    },
+    {
+      "key": "PRO999",
+      "duration": 86400,
+      "serverTime": 1699958400000
+    },
+    {
+      "key": "ELITE777",
+      "duration": 43200,
+      "serverTime": 1699958400000
+    }
   ]
 }
